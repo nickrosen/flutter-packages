@@ -14,7 +14,8 @@ dependencies:
   firebase_auth_service:
     #path: ../firebase_auth_service
     git:
-      url: https://github.com/nickrosen/flutter-packages
+      url: https://github.com/nickrosen/flutter-packages.git
+      ref: main
       path: packages/firebase_auth_service
   google_sign_in: ^4.5.1
 
