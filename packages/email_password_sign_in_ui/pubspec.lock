@@ -13,7 +13,7 @@ packages:
     description:
       path: "packages/alert_dialogs"
       ref: main
-      resolved-ref: "94694a9def871829b447aac89ba6a639bac2d1e4"
+      resolved-ref: bc23abab3506f109bd83b69ad0d3a9f0ecb59049
       url: "https://github.com/nickrosen/flutter-packages.git"
     source: git
     version: "0.2.0"
@@ -169,7 +169,7 @@ packages:
     description:
       path: "packages/custom_buttons"
       ref: main
-      resolved-ref: "94694a9def871829b447aac89ba6a639bac2d1e4"
+      resolved-ref: bc23abab3506f109bd83b69ad0d3a9f0ecb59049
       url: "https://github.com/nickrosen/flutter-packages.git"
     source: git
     version: "0.1.0"
@@ -200,21 +200,21 @@ packages:
       name: firebase_auth
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.4.1"
+    version: "3.0.1"
   firebase_auth_platform_interface:
     dependency: transitive
     description:
       name: firebase_auth_platform_interface
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "4.3.1"
+    version: "6.0.0"
   firebase_auth_web:
     dependency: transitive
     description:
       name: firebase_auth_web
       url: "https://pub.dartlang.org"
     source: hosted
-    version: "1.3.1"
+    version: "3.0.0"
   firebase_core:
     dependency: transitive
     description:
@@ -464,7 +464,7 @@ packages:
     description:
       path: "packages/string_validators"
       ref: main
-      resolved-ref: "94694a9def871829b447aac89ba6a639bac2d1e4"
+      resolved-ref: bc23abab3506f109bd83b69ad0d3a9f0ecb59049
       url: "https://github.com/nickrosen/flutter-packages.git"
     source: git
     version: "0.1.0"
