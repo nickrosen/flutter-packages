@@ -13,7 +13,7 @@ packages:
     description:
       path: "packages/alert_dialogs"
       ref: main
-      resolved-ref: bc23abab3506f109bd83b69ad0d3a9f0ecb59049
+      resolved-ref: "6eb5a796f815046215426e048fb35f35a8e21134"
       url: "https://github.com/nickrosen/flutter-packages.git"
     source: git
     version: "0.2.0"
@@ -169,7 +169,7 @@ packages:
     description:
       path: "packages/custom_buttons"
       ref: main
-      resolved-ref: bc23abab3506f109bd83b69ad0d3a9f0ecb59049
+      resolved-ref: "6eb5a796f815046215426e048fb35f35a8e21134"
       url: "https://github.com/nickrosen/flutter-packages.git"
     source: git
     version: "0.1.0"
@@ -464,7 +464,7 @@ packages:
     description:
       path: "packages/string_validators"
       ref: main
-      resolved-ref: bc23abab3506f109bd83b69ad0d3a9f0ecb59049
+      resolved-ref: "6eb5a796f815046215426e048fb35f35a8e21134"
       url: "https://github.com/nickrosen/flutter-packages.git"
     source: git
     version: "0.1.0"
